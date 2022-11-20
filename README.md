@@ -1,6 +1,6 @@
 # COMP 5331 2022/23 Fall Group 9
 
-[GitHub Page](https://github.com/RYY0722/TENT_COMP5331_draft)
+[GitHub Page](https://github.com/RYY0722/TENT_COMP5331)
 
 Project type: Implementation
 
