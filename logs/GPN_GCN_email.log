@@ -1,0 +1,70 @@
+nodes num 909
+Gettng index
+Gettng class_train_dict
+Gettng class_valid_dict
+Gettng class_test_dict
+Training GCN for on email (5-way 3-shot) Q: 5
+Repeat 0: Training GCN for on email (5-way 3-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.64
+Meta-valid_Accuracy: 0.7384
+Meta-Test_Accuracy: 0.6432000000000001
+Total time elapsed: 0.2427s
+0.6432000000000001
+Repeat 1: Training GCN for on email (5-way 3-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.6220000000000001
+Meta-valid_Accuracy: 0.7816
+Meta-Test_Accuracy: 0.6976
+Total time elapsed: 0.2410s
+0.6432000000000001
+0.6976
+Training GCN for on email (5-way 5-shot) Q: 5
+Repeat 0: Training GCN for on email (5-way 5-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.6540000000000001
+Meta-valid_Accuracy: 0.7328
+Meta-Test_Accuracy: 0.5912
+Total time elapsed: 0.2675s
+0.5912
+Repeat 1: Training GCN for on email (5-way 5-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.6839999999999999
+Meta-valid_Accuracy: 0.7696
+Meta-Test_Accuracy: 0.612
+Total time elapsed: 0.2729s
+0.5912
+0.612
+Training GCN for on email (7-way 3-shot) Q: 5
+Repeat 0: Training GCN for on email (7-way 3-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.5914285714285713
+Meta-valid_Accuracy: 0.7165714285714287
+Meta-Test_Accuracy: 0.6451428571428572
+Total time elapsed: 0.2580s
+0.6451428571428572
+Repeat 1: Training GCN for on email (7-way 3-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.6271428571428571
+Meta-valid_Accuracy: 0.7251428571428571
+Meta-Test_Accuracy: 0.5542857142857143
+Total time elapsed: 0.2595s
+0.6451428571428572
+0.5542857142857143
+Training GCN for on email (7-way 5-shot) Q: 5
+Repeat 0: Training GCN for on email (7-way 5-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.6471428571428571
+Meta-valid_Accuracy: 0.7514285714285716
+Meta-Test_Accuracy: 0.6005714285714285
+Total time elapsed: 0.2499s
+0.6005714285714285
+Repeat 1: Training GCN for on email (7-way 5-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.6571428571428571
+Meta-valid_Accuracy: 0.7251428571428572
+Meta-Test_Accuracy: 0.6622857142857143
+Total time elapsed: 0.2480s
+0.6005714285714285
+0.6622857142857143
+Done :)

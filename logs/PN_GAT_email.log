@@ -1,0 +1,70 @@
+nodes num 909
+Gettng index
+Gettng class_train_dict
+Gettng class_valid_dict
+Gettng class_test_dict
+Training GAT for on email (5-way 3-shot) Q: 5
+Repeat 0: Training GAT for on email (5-way 3-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.2399999987334013
+Meta-valid_Accuracy: 0.19360000029206276
+Meta-Test_Accuracy: 0.19920000150799752
+Total time elapsed: 3.5933s
+0.19920000150799752
+Repeat 1: Training GAT for on email (5-way 3-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.19000000059604644
+Meta-valid_Accuracy: 0.20720000088214874
+Meta-Test_Accuracy: 0.20079999998211862
+Total time elapsed: 3.6107s
+0.19920000150799752
+0.20079999998211862
+Training GAT for on email (5-way 5-shot) Q: 5
+Repeat 0: Training GAT for on email (5-way 5-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.19599999785423278
+Meta-valid_Accuracy: 0.1935999995470047
+Meta-Test_Accuracy: 0.1711999988555908
+Total time elapsed: 3.3221s
+0.1711999988555908
+Repeat 1: Training GAT for on email (5-way 5-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.1879999991506338
+Meta-valid_Accuracy: 0.21119999766349792
+Meta-Test_Accuracy: 0.1824000009894371
+Total time elapsed: 3.3444s
+0.1711999988555908
+0.1824000009894371
+Training GAT for on email (7-way 3-shot) Q: 5
+Repeat 0: Training GAT for on email (7-way 3-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.14714286103844643
+Meta-valid_Accuracy: 0.14742857608944177
+Meta-Test_Accuracy: 0.1360000040382147
+Total time elapsed: 3.1865s
+0.1360000040382147
+Repeat 1: Training GAT for on email (7-way 3-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.1528571467846632
+Meta-valid_Accuracy: 0.12742857486009598
+Meta-Test_Accuracy: 0.15257143292576075
+Total time elapsed: 3.2416s
+0.1360000040382147
+0.15257143292576075
+Training GAT for on email (7-way 5-shot) Q: 5
+Repeat 0: Training GAT for on email (7-way 5-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.14000000404193996
+Meta-valid_Accuracy: 0.1411428612098098
+Meta-Test_Accuracy: 0.1382857185229659
+Total time elapsed: 3.2452s
+0.1382857185229659
+Repeat 1: Training GAT for on email (7-way 5-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.13714286172762513
+Meta-valid_Accuracy: 0.13771429002285004
+Meta-Test_Accuracy: 0.16342857599258423
+Total time elapsed: 3.2217s
+0.1382857185229659
+0.16342857599258423
+Done :)

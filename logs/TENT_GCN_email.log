@@ -1,0 +1,70 @@
+nodes num 909
+Gettng index
+Gettng class_train_dict
+Gettng class_valid_dict
+Gettng class_test_dict
+Training GCN for on email (5-way 3-shot) Q: 5
+Repeat 0: Training GCN for on email (5-way 3-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.31000000000000005
+Meta-valid_Accuracy: 0.8567999999999999
+Meta-Test_Accuracy: 0.748
+Total time elapsed: 3.9439s
+0.748
+Repeat 1: Training GCN for on email (5-way 3-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.33
+Meta-valid_Accuracy: 0.8592
+Meta-Test_Accuracy: 0.7088
+Total time elapsed: 3.8250s
+0.748
+0.7088
+Training GCN for on email (5-way 5-shot) Q: 5
+Repeat 0: Training GCN for on email (5-way 5-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.31200000000000006
+Meta-valid_Accuracy: 0.8543999999999999
+Meta-Test_Accuracy: 0.7807999999999999
+Total time elapsed: 3.7403s
+0.7807999999999999
+Repeat 1: Training GCN for on email (5-way 5-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.25400000000000006
+Meta-valid_Accuracy: 0.8775999999999999
+Meta-Test_Accuracy: 0.7600000000000001
+Total time elapsed: 3.6666s
+0.7807999999999999
+0.7600000000000001
+Training GCN for on email (7-way 3-shot) Q: 5
+Repeat 0: Training GCN for on email (7-way 3-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.21857142857142858
+Meta-valid_Accuracy: 0.7051428571428571
+Meta-Test_Accuracy: 0.6937142857142858
+Total time elapsed: 5.0367s
+0.6937142857142858
+Repeat 1: Training GCN for on email (7-way 3-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.21142857142857144
+Meta-valid_Accuracy: 0.7571428571428571
+Meta-Test_Accuracy: 0.6634285714285714
+Total time elapsed: 4.9901s
+0.6937142857142858
+0.6634285714285714
+Training GCN for on email (7-way 5-shot) Q: 5
+Repeat 0: Training GCN for on email (7-way 5-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.19999999999999998
+Meta-valid_Accuracy: 0.8657142857142857
+Meta-Test_Accuracy: 0.766285714285714
+Total time elapsed: 4.9334s
+0.766285714285714
+Repeat 1: Training GCN for on email (7-way 5-shot)
+-------Episode 19-------
+Meta-Train_Accuracy: 0.30142857142857143
+Meta-valid_Accuracy: 0.8137142857142855
+Meta-Test_Accuracy: 0.7537142857142856
+Total time elapsed: 5.0785s
+0.766285714285714
+0.7537142857142856
+Done :)

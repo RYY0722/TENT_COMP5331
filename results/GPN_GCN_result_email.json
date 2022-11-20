@@ -1,0 +1,18 @@
+{
+    "5-way 3-shot 0-repeat": 0.6432000000000001,
+    "5-way 3-shot 1-repeat": 0.6976,
+    "5-way 3-shot": 0.6704000000000001,
+    "5-way 3-shot_print": "acc: 0.6704",
+    "5-way 5-shot 0-repeat": 0.5912,
+    "5-way 5-shot 1-repeat": 0.612,
+    "5-way 5-shot": 0.6015999999999999,
+    "5-way 5-shot_print": "acc: 0.6016",
+    "7-way 3-shot 0-repeat": 0.6451428571428572,
+    "7-way 3-shot 1-repeat": 0.5542857142857143,
+    "7-way 3-shot": 0.5997142857142858,
+    "7-way 3-shot_print": "acc: 0.5997",
+    "7-way 5-shot 0-repeat": 0.6005714285714285,
+    "7-way 5-shot 1-repeat": 0.6622857142857143,
+    "7-way 5-shot": 0.6314285714285715,
+    "7-way 5-shot_print": "acc: 0.6314"
+}
